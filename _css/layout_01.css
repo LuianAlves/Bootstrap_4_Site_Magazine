@@ -1,0 +1,33 @@
+/* LAYOUT DO SITE */
+
+/* Barra no Topo - Index */
+
+.menu-section 
+{
+    background-color: #4980ad;
+} 
+.menu_barra_topo 
+{
+      
+    list-style: none; 
+    font-size: 12px;
+    font-family: verdana;
+    font-weight: 600; 
+}
+
+.contact-section .form .btn-floating {
+    left: 2px;
+    background-color: #4f4f4f;
+}
+
+.navbar ul li a 
+{
+    color: #fff;
+    font-size: 14px;
+    font-family: verdana;
+    font-weight: 600;
+}
+
+
+
+
